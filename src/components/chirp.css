@@ -1,0 +1,55 @@
+#superDome{
+    display: inline-block;
+color: cornsilk;
+}
+form{
+    padding: 3em;
+    margin-right: auto;
+    width: 406px;
+    border: 5px solid black;
+    box-shadow: 7px 13px 30px -4px green;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bolder;
+}
+.card{
+    padding: 3em;
+    margin-left: 610px;
+    margin-top: 1em;
+    width: 300px;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    box-shadow: 7px 13px 30px -4px green;
+    border: 5px solid black;
+    
+}
+
+#beDone > .card{
+    padding: 3em;
+    margin-left: 610px;
+    width: 306px;
+display: inline-flex;
+}
+
+body{
+    background: url("C:\Users\danie\Documents\react\react-me\src\scooby-doo.jpg");
+    background-size:contain;
+    color: rgb(58, 7, 23);
+
+}
+#title{
+    justify-content: center;
+    align-self: center;
+    color: cornsilk;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#instaChirp{
+    background-color: rgb(58, 7, 23);
+    color: cornsilk;
+    font-weight: bold;
+}
+.card-text2:after{
+content: '\128540';
+}
